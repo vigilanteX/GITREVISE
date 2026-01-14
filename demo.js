@@ -1,1 +1,1 @@
-console.log('hello world')
+console.log("modded by custom 2");
